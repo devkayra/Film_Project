@@ -1,2 +1,2 @@
 Film_Project
-https://devkayra.github.io/Film_Project/
+https://kayraberktuncer.github.io/Film_Project/
